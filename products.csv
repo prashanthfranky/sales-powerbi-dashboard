@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,Margin%,StockQty,Supplier,LaunchDate
+P001,Laptop Pro,Electronics,Computers,800,1200,33.3,500,TechSupply Co,2022-01-10
+P002,Smartphone X,Electronics,Mobile,520,800,35.0,1200,MobileWorld,2022-06-15
+P003,Office Chair,Furniture,Seating,90,150,40.0,800,FurniturePro,2021-11-20
+P004,Winter Jacket,Clothing,Outerwear,120,200,40.0,600,FashionHub,2022-09-01
+P005,Tablet Z,Electronics,Tablets,390,600,35.0,700,TechSupply Co,2023-02-14
+P006,Standing Desk,Furniture,Desks,270,450,40.0,400,FurniturePro,2022-04-05
+P007,Summer Dress,Clothing,Casualwear,48,80,40.0,900,FashionHub,2023-03-20

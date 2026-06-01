@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Segment,Country,Region,JoinDate,Email,TotalOrders,TotalSpend
+C001,TechCorp Inc,Enterprise,USA,North America,2022-01-15,contact@techcorp.com,25,185000
+C002,RetailMax UK,SMB,UK,Europe,2022-03-20,info@retailmax.co.uk,18,92000
+C003,GlobalTrade India,SMB,India,Asia,2022-06-10,sales@globaltrade.in,30,45000
+C004,NorthStar Canada,Enterprise,Canada,North America,2021-11-05,hello@northstar.ca,22,130000
+C005,EuroShop Germany,Enterprise,Germany,Europe,2022-02-18,contact@euroshop.de,28,178000
+C006,AsiaPac Japan,SMB,Japan,Asia,2023-01-08,info@asiapac.jp,15,95000
+C007,HomeStyle USA,Retail,USA,North America,2023-03-14,shop@homestyle.com,40,62000
+C008,FashionFR France,Retail,France,Europe,2022-09-22,hello@fashionfr.fr,20,38000
+C009,DragonMart China,Enterprise,China,Asia,2021-08-30,trade@dragonmart.cn,55,320000
+C010,LakeView USA,SMB,USA,North America,2023-05-01,info@lakeview.com,12,48000
